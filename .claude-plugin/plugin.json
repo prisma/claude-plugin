@@ -1,0 +1,7 @@
+{
+  "name": "prisma",
+  "description": "A collection of skills for AI coding agents working with Prisma ORM and Prisma Postgres",
+  "author": {
+    "name": "Prisma"
+  }
+}

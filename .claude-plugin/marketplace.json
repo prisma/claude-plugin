@@ -1,0 +1,33 @@
+{
+  "name": "prisma",
+  "description": "Curated Prisma skills for ORM, Prisma Client, Prisma Postgres, Prisma Compute deployments, migrations, and database workflows, plus official Prisma MCP integration.",
+  "owner": {
+    "name": "Prisma"
+  },
+  "plugins": [
+    {
+      "name": "prisma",
+      "source": "./",
+      "description": "Curated Prisma skills for ORM, Prisma Client, Prisma Postgres, Prisma Compute deployments, migrations, and database workflows, plus official Prisma MCP integration.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Prisma",
+        "url": "https://www.prisma.io/"
+      },
+      "repository": "https://github.com/prisma/claude-plugin",
+      "license": "MIT",
+      "keywords": [
+        "prisma",
+        "orm",
+        "database",
+        "postgresql",
+        "migrations",
+        "prisma-client",
+        "prisma-postgres",
+        "prisma-compute",
+        "deployment",
+        "mcp"
+      ]
+    }
+  ]
+}

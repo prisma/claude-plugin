@@ -1,7 +1,24 @@
 {
   "name": "prisma",
-  "description": "Prisma MCP integration for Postgres database management, schema migrations, SQL queries, and connection string management. Provision Prisma Postgres databases, run migrations, and interact with your data directly.",
+  "version": "0.2.0",
+  "description": "Curated Prisma skills for ORM, Prisma Client, Prisma Postgres, Prisma Compute deployments, migrations, and database workflows, plus official Prisma MCP integration.",
   "author": {
-    "name": "Prisma"
-  }
+    "name": "Prisma",
+    "url": "https://www.prisma.io/"
+  },
+  "homepage": "https://www.prisma.io/docs",
+  "repository": "https://github.com/prisma/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "prisma",
+    "orm",
+    "database",
+    "postgresql",
+    "migrations",
+    "prisma-client",
+    "prisma-postgres",
+    "prisma-compute",
+    "deployment",
+    "mcp"
+  ]
 }
